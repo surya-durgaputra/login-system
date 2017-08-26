@@ -1,3 +1,8 @@
 login-system
 
-This is a bare-bones login and user authentication system. It implements Registration, Login, Logout. Passport-local is used. You can add passport-facebook etc. It uses mongodb and mongoose. Please check the schema in User.js for storing in the db. Happy coding!!.
+This is a bare-bones login and user authentication system. It implements Registration, Login, Logout. Passport-local is used. You can add passport-facebook etc. It uses mongodb and mongoose. Please check the schema in User.js for storing in the db. 
+
+Usage:
+first run 'npm install' at the project root to install all the dependencies. Then 'npm start'
+
+Happy coding!!.
